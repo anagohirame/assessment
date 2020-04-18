@@ -1,0 +1,15 @@
+body {
+	background-color: azure;
+	color: burlywood;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+button {
+	padding: 5px 29px;
+	background-color: burlywood;
+	border-style: none;
+}
+input {
+	height: 20px;
+}
